@@ -1,5 +1,8 @@
 
-Shashank Ojha, Sabrina Button, Abdellah Ghassel, Joshua Gonzales   
+Shashank Ojha, Sabrina Button, Abdellah Ghassel, Joshua Gonzales 
+
+Update: Winner of 3rd place in the UofT Hackathon 2022
+
 
 #   <img src = "https://drive.google.com/uc?export=view&id=1wpfdlHiWh5KRe_vNQHxh1KQIfEGxOfFJ" width="150" height="38"> 
 
